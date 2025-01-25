@@ -1,7 +1,5 @@
 <h3 align="center">A passionate little game,frontend,backend and fullstack developer from Turkiye</h3>
 
-- 🌱 I’m currently learning **NextJS,Unity**
-
 - 👨‍💻 All of my projects are available at [https://portfolio-website-1-phf6.onrender.com/](https://portfolio-website-1-phf6.onrender.com/)
 
 - 💬 Ask me about **JavaScript,ReactJS,NodeJS,TypeScript**
